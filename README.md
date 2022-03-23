@@ -5,10 +5,13 @@ DESCRIPTION OF REPOSITORY:
 
 Dataset used: Flickr8k dataset
 
-Flickr8k dataset is a dataset of photographs and descriptions. Flickr8k dataset comprises nearly 8091 photographs and their captions, with upto FIVE captions for each photograph.
+Flickr8k dataset is a dataset of photographs and descriptions. Flickr8k dataset comprises nearly 8091 photographs and their captions, with upto FIVE captions for each photograph. Since the dataset is large approximately 1 GB in size, I have attached a link to the dataset below here so that the original dataset can be downloaded and can be used into the model.
+
+https://www.kaggle.com/adityajn105/flickr8k?select=Images
 
 PACKAGES USED:
 	1. Pandas, Tensorflow, Keras, Matplotlib, CV2, Numpy.
+
 
 IMPLEMENTATION:
 
@@ -25,4 +28,7 @@ IMPLEMENTATION:
 II. TRAINING THE MODEL:
 
 	--> The number of Epochs can be increased to improve the accuracy of the model.
-  --> The highest accuracy achieved by the model is: 
+	
+	
+Link to the GlovE embeddings: Please make use of 200dimensional embedding file. https://www.kaggle.com/datasets/anmolkumar/glove-embeddings
+  
