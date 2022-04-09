@@ -1,3 +1,9 @@
+[Automatic image captions (3).zip](https://github.com/Iampushyamithra/Automatic-Image-Captioning--Transfer-Learning/files/8456716/Automatic.image.captions.3.zip)
+![Caption Generated for Photo 2](https://user-images.githubusercontent.com/91237719/162568151-db58bff6-1dff-4c46-a11c-1374e1607fa4.png)
+![Caption Generated for Photo 1](https://user-images.githubusercontent.com/91237719/162568155-4ef3e9a0-ef64-4bf8-a016-054872674d04.png)
+![Deployment web page](https://user-images.githubusercontent.com/91237719/162568157-f28fd09a-0fd5-4162-bc39-9beb793a0ed6.png)
+![Photo 2](https://user-images.githubusercontent.com/91237719/162568163-b625a3f8-0051-481a-bb1d-eea89ba90cc2.PNG)
+![Photo 1](https://user-images.githubusercontent.com/91237719/162568167-d0ffdba2-9adc-40a4-b8c6-7ba6e854f692.PNG)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Iampushyamithra/Automatic-Image-Captioning--Transfer-Learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
