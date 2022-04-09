@@ -31,4 +31,9 @@ II. TRAINING THE MODEL:
 	
 	
 Link to the GlovE embeddings: Please make use of 200dimensional embedding file. https://www.kaggle.com/datasets/anmolkumar/glove-embeddings
+
+
+III. DEPLOYMENT OF THE MODEL:
+
+	--> The running command to execute the deployment: python -m flask run
   
