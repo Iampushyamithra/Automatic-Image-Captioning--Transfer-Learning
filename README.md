@@ -1,6 +1,8 @@
 # Automatic-Image-Captioning--Transfer-Learning - CNN/LSTM
 Machine Learning Model- Uses Transfer Learning to generate Captions
 
+*Also go through: "Requirements"- file thoroughly.*
+
 DESCRIPTION OF REPOSITORY:
 
 Dataset used: Flickr8k dataset
