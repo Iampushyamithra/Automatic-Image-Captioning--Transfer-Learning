@@ -37,5 +37,7 @@ Link to the GlovE embeddings: Please make use of 200dimensional embedding file. 
 
 III. DEPLOYMENT OF THE MODEL:
 
+Deployed code is stored in and labelled as "Deployment Folder"
+
 	--> The running command to execute the deployment: python -m flask run
-  	--> Deployed code is labelled as "Deployment Folder"
+  	 
